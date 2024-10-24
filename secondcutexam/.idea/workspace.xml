@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e5f7921-d0dc-4f52-a103-4a3f4f1ce384" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/secondcutexam-db.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/secondcutexam-db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/secondcutexam-db.script" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/addToCollection_jsp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/addToCollection_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cash/secondcutexam/modelo/Avance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cash/secondcutexam/modelo/Avance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/index_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/index_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/index_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/index_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/firstSteps_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/firstSteps_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/firstSteps_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/firstSteps_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/index_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/index_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/index_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/index_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/leftMenu_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/leftMenu_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/leftMenu_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/leftMenu_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/moduleHeader_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/moduleHeader_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/moduleHeader_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/moduleHeader_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/modulesList_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/modulesList_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/modulesMenu_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/modulesMenu_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/modulesMenu_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/modulesMenu_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/selectModules_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/selectModules_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/selectModules_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/selectModules_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/signIn_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/signIn_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/welcome_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/welcome_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/welcome_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/naviox/welcome_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/barButton_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/barButton_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/barButton_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/barButton_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/bottomButtons_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/bottomButtons_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/bottomButtons_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/bottomButtons_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/buttonBar_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/buttonBar_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/buttonBar_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/buttonBar_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/collectionFrameHeader_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/collectionFrameHeader_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/collectionFrameHeader_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/collectionFrameHeader_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/collection_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/collection_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/collection_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/collection_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/core_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/core_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/core_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/core_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/detail_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/detail_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/detail_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/detail_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/editor_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/editor_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/editor_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/editor_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/editors/collectionEditor_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/editors/collectionEditor_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/editors/collectionEditor_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/editors/collectionEditor_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/editors/dateCalendarEditor_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/editors/dateCalendarEditor_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/editors/listEditor_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/editors/listEditor_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/editors/listEditor_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/editors/listEditor_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/editors/passwordEditor_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/editors/passwordEditor_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/editors/textAreaEditor_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/editors/textAreaEditor_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/editors/textEditor_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/editors/textEditor_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/errors_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/errors_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/errors_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/errors_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/execute_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/execute_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/frameActions_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/frameActions_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/listConfigurations_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/listConfigurations_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/listConfigurations_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/listConfigurations_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/list_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/list_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/list_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/list_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/messages_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/messages_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/messages_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/messages_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/module_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/module_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/module_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/module_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/themeChooser_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/themeChooser_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/themeChooser_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/work/Tomcat/localhost/secondcutexam/org/apache/jsp/xava/themeChooser_jsp.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2nuBJ0lAda1RjONkoGyEGmUn3aX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.secondcutexam.executor": "Run",
+    "Maven.secondcutexam [package].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/silviomoramendoza/Desktop/POO-2DO-CORTE/Evaluacion_CII/secondcutexam",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e5f7921-d0dc-4f52-a103-4a3f4f1ce384" name="Changes" comment="" />
+      <created>1729813004430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729813004430</updated>
+      <workItem from="1729813005519" duration="259000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
